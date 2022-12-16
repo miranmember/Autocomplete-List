@@ -1,4 +1,4 @@
-# Autocomplete-List
+# Autocomplete List
 This is a C++ program that includes a header file, AutocompleteList.h, which declares a class AutocompleteList that implements an autocomplete list data structure. The class includes functions for inserting terms into the list, searching for terms in the list, and sorting the list based on the terms or their weights. The class also includes a function for displaying the terms in the list that contain a given prefix.
 
 
